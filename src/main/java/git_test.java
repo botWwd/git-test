@@ -4,5 +4,6 @@ public class git_test {
         System.out.println("first git2");
         System.out.println("first git3");
         System.out.println("first git4");
+        System.out.println("master test");
     }
 }
