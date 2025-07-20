@@ -11,5 +11,8 @@ public class git_test {
         System.out.println("7/30-gitee breach");
         System.out.println("7/30-gitee breach2");
         System.out.println("7/30-gitee merge to master");
+        System.out.println("pull breach try to merge to dev");
+        System.out.println("pull breach try to merge to dev222");
+
     }
 }
