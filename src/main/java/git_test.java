@@ -10,5 +10,6 @@ public class git_test {
         System.out.println("gitee breach");
         System.out.println("7/30-gitee breach");
         System.out.println("7/30-gitee breach2");
+        System.out.println("7/30-gitee merge to master");
     }
 }
