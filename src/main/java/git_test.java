@@ -7,5 +7,6 @@ public class git_test {
         System.out.println("master test");
         System.out.println("master breach");
         System.out.println("pull breach");
+        System.out.println("pull breach try to merge to dev");
     }
 }
